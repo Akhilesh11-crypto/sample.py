@@ -1,0 +1,5 @@
+Name: Akhilesh Giri
+Age: 23
+Tablet: Paracetamol 500mg
+Tablet: Amoxicilin 250mg
+Tablet: Cetirizine 10mg
